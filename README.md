@@ -1,7 +1,7 @@
 ## A picture search app for [unsplush.com](https://unsplash.com/)
 
 React App for picture search using API of [unsplush.com](https://unsplash.com/).<br>
-Styling - Semantic UI
+Styling - Semantic UI & CSS Grid
 
 Based on [Create React App](https://github.com/facebook/create-react-app)
 
